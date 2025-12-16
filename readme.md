@@ -2,7 +2,6 @@
 
 ![Platform](https://img.shields.io/badge/Platform-Google%20Colab-orange)
 ![Output](https://img.shields.io/badge/Output-MP3-blue)
-![Status](https://img.shields.io/badge/Status-Working-success)
 
 ---
 
